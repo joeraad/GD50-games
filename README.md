@@ -11,6 +11,7 @@ Current code for all games has more tweaks/features than the course projects req
 1. [Pong](./pong)
 2. [Flappy bird](./flappy-bird)
 3. [Breakout](./breakout)
+4. [Match 3](./Match-3)
 
 ---
 

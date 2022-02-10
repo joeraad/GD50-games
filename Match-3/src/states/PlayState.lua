@@ -3,9 +3,8 @@
     Match-3 Remake
 
     -- PlayState Class --
-
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    
+    Author: Joe Raad
 
     State in which we can actually play, moving around a grid cursor that
     can swap two tiles; when two tiles make a legal swap (a swap that results
@@ -14,6 +13,9 @@
     until they exceed the number of points needed to get to the next level
     or until the time runs out, at which point they are brought back to the
     main menu or the score entry menu if they made the top 10.
+
+    Credit for base code:
+    Colton Ogden
 ]]
 PlayState = Class {__includes = BaseState}
 

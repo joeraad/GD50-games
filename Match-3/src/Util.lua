@@ -4,10 +4,12 @@
 
     -- StartState Class --
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Joe Raad
 
     Helper functions for writing Match-3.
+    
+    Credit for base code:
+    Colton Ogden
 ]]
 --[[
     Given an "atlas" (a texture with multiple sprites), generate all of the

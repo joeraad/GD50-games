@@ -8,10 +8,13 @@ Current code for all games has more tweaks/features than the course projects req
 
 ## Games
 
-1. [Pong](./pong)
-2. [Flappy bird](./flappy-bird)
-3. [Breakout](./breakout)
-4. [Match 3](./Match-3)
+| Game                                          |     | Demo                                       |
+| :-------------------------------------------- | :-: | :----------------------------------------- |
+| [Pong](./Pong)                                |     | [Demo Video](https://youtu.be/up_uI_EeBPk) |
+| [Flappy bird](./Flappy-Bird)                  |     | [Demo Video](https://youtu.be/NByQs1kS4fA) |
+| [Breakout](./Breakout)                        |     | [Demo Video](https://youtu.be/vA0I8rq11wQ) |
+| [Match 3](./Match-3)                          |     | [Demo Video](https://youtu.be/sBGZ2Ft58BM) |
+| [Super Mario Bros Clone](./Super-mario-clone) |     | [Demo Video](https://youtu.be/lNtlU79pO-M) |
 
 ---
 

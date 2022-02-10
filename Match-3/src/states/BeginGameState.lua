@@ -4,12 +4,14 @@
 
     -- BeginGameState Class --
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Joe Raad
 
     Represents the state the game is in right before we start playing;
     should fade in, display a drop-down "Level X" message, then transition
     to the PlayState, where we can finally use player input.
+
+    Credit for base code:
+    Colton Ogden
 ]]
 BeginGameState = Class {__includes = BaseState}
 

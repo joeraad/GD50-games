@@ -4,11 +4,13 @@
 
     -- Board Class --
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Joe Raad
 
     The Board is our arrangement of Tiles with which we must try to find matching
     sets of three horizontally or vertically.
+
+    Credit for base code:
+    Colton Ogden
 ]]
 Board = Class {}
 

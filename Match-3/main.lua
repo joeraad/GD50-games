@@ -2,8 +2,7 @@
     GD50
     Match-3 Remake
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Joe Raad
 
     Match-3 has taken several forms over the years, with its roots in games
     like Tetris in the 80s. Bejeweled, in 2001, is probably the most recognized
@@ -25,6 +24,9 @@
 
     Cool texture generator, used for background:
     http://cpetry.github.io/TextureGenerator-Online/
+
+    Credit for base code:
+    Colton Ogden
 ]]
 -- initialize our nearest-neighbor filter
 love.graphics.setDefaultFilter("nearest", "nearest")

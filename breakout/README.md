@@ -1,5 +1,7 @@
 # Breakout
 
+[Demo Video](https://youtu.be/vA0I8rq11wQ)
+
 Originally developed by Atari in 1976. An effective evolution of
 Pong, Breakout ditched the two-player mechanic in favor of a single-
 player game where the player, still controlling a paddle, was tasked
@@ -14,8 +16,8 @@ resolution, though in widescreen (16:9) so it looks nicer on modern systems.
 
 ### Modified version:
 
-+ Added Ball multiplication powerup
-+ Added Tier system for blocks
-+ Added Locked blocks and key powerup
-+ Added Health Recovery system
-+ Added Paddle Shrink/ Grow after a heart has been lost/ gained
+- Added Ball multiplication powerup
+- Added Tier system for blocks
+- Added Locked blocks and key powerup
+- Added Health Recovery system
+- Added Paddle Shrink/ Grow after a heart has been lost/ gained
